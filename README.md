@@ -1,2 +1,1 @@
-# Assignment
-Tutedude assignment 1 for python
+This Python program takes two numbers as input from the user, performs basic mathematical operations including addition, subtraction, multiplication, and division, and displays the result of each operation on the screen. The user simply enters two numerical values when prompted, and the program calculates and shows all results clearly, with a note that the second number should not be zero to avoid division errors.
